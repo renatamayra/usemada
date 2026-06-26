@@ -1,0 +1,20 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Arquivos de design
+*.ai
+*.psd
+
+# Fontes
+*.otf
+*.ttf
+
+# PDFs
+*.pdf

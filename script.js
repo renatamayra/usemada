@@ -8,12 +8,12 @@ function toggleMode() {
   // substituir a imagem
   if (html.classList.contains("light")) {
     // se tiver light mode, adicionar a imagem light
-    img.setAttribute("src", "./assets/avatar-renata-light.png")
-    img.setAttribute("alt", "Foto Renata Mayra namaste")
+    img.setAttribute("src", "./assets/avatar-mada-light.png")
+    img.setAttribute("alt", "Foto Use Mada")
   } else {
     // se tiver sem light mode, manter a imagem normal
-    img.setAttribute("src", "./assets/avatar-renata.png")
-    img.setAttribute("alt", "Foto Renata Mayra")
+    img.setAttribute("src", "./assets/avatar-mada.png")
+    img.setAttribute("alt", "Foto Use Mada")
   }
 
   /*  if(html.classList.contains('light')) {

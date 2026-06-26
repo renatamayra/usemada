@@ -1,0 +1,800 @@
+%!Adobe-FontList 1.25
+%Locale:0x816
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTPro-Book
+FamilyName:Avenir LT Pro
+StyleName:45 Book
+FullName:Avenir LT Pro 45 Book
+MenuName:Avenir LT Pro 45 Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\AvenirLTProBook.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:44964
+FileModTime:1644040846
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir LT Pro 45 Book
+NameArray:0,Win,1,Avenir LT Pro 45 Book
+NameArray:0,Win,16,Avenir LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTPro-BookOblique
+FamilyName:Avenir LT Pro
+StyleName:45 Book Oblique
+FullName:Avenir LT Pro 45 Book Oblique
+MenuName:Avenir LT Pro 45 Book
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\AvenirLTProBookOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:45296
+FileModTime:1644040846
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir LT Pro 45 Book Oblique
+NameArray:0,Win,1,Avenir LT Pro 45 Book
+NameArray:0,Win,16,Avenir LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTPro-Light
+FamilyName:Avenir LT Pro
+StyleName:35 Light
+FullName:Avenir LT Pro 35 Light
+MenuName:Avenir LT Pro 35 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\AvenirLTProLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:44332
+FileModTime:1644040846
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir LT Pro 35 Light
+NameArray:0,Win,1,Avenir LT Pro 35 Light
+NameArray:0,Win,16,Avenir LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTPro-LightOblique
+FamilyName:Avenir LT Pro
+StyleName:35 Light Oblique
+FullName:Avenir LT Pro 35 Light Oblique
+MenuName:Avenir LT Pro 35 Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\AvenirLTProLightOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:44812
+FileModTime:1644040846
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Avenir LT Pro 35 Light Oblique
+NameArray:0,Win,1,Avenir LT Pro 35 Light
+NameArray:0,Win,16,Avenir LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTPro-Medium
+FamilyName:Avenir LT Pro
+StyleName:65 Medium
+FullName:Avenir LT Pro 65 Medium
+MenuName:Avenir LT Pro 65 Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\AvenirLTProMedium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:44856
+FileModTime:1644040846
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir LT Pro 65 Medium
+NameArray:0,Win,1,Avenir LT Pro 65 Medium
+NameArray:0,Win,16,Avenir LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTPro-MediumOblique
+FamilyName:Avenir LT Pro
+StyleName:65 Medium Oblique
+FullName:Avenir LT Pro 65 Medium Oblique
+MenuName:Avenir LT Pro 65 Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\AvenirLTProMediumOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:43940
+FileModTime:1644040846
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir LT Pro 65 Medium Oblique
+NameArray:0,Win,1,Avenir LT Pro 65 Medium
+NameArray:0,Win,16,Avenir LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTPro-Oblique
+FamilyName:Avenir LT Pro
+StyleName:55 Oblique
+FullName:Avenir LT Pro 55 Oblique
+MenuName:Avenir LT Pro 55 Roman
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\AvenirLTProOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:44688
+FileModTime:1644040846
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Avenir LT Pro 55 Oblique
+NameArray:0,Win,1,Avenir LT Pro 55 Roman
+NameArray:0,Win,16,Avenir LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirLTPro-Roman
+FamilyName:Avenir LT Pro
+StyleName:55 Roman
+FullName:Avenir LT Pro 55 Roman
+MenuName:Avenir LT Pro 55 Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\AvenirLTProRoman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:44072
+FileModTime:1644040846
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir LT Pro 55 Roman
+NameArray:0,Win,1,Avenir LT Pro 55 Roman
+NameArray:0,Win,16,Avenir LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTInterphasesProMonoTrl-BdIt
+FamilyName:TT Interphases Pro Mono Trl
+StyleName:Bold Italic
+FullName:TT Interphases Pro Mono Trl Bold Italic
+MenuName:TT Interphases Pro Mono Trl
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Mono Trial Bold Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:100520
+FileModTime:1675688070
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,TT Interphases Pro Mono Trial Bold It
+NameArray:0,Mac,4,TT Interphases Pro Mono Trl Bold Italic
+NameArray:0,Win,1,TT Interphases Pro Mono Trl
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTInterphasesProMonoTrl-Bd
+FamilyName:TT Interphases Pro Mono Trl
+StyleName:Bold
+FullName:TT Interphases Pro Mono Trl Bold
+MenuName:TT Interphases Pro Mono Trl
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Mono Trial Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:100872
+FileModTime:1675688070
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,TT Interphases Pro Mono Trl Bold
+NameArray:0,Win,1,TT Interphases Pro Mono Trl
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTInterphasesProMonoTrl-It
+FamilyName:TT Interphases Pro Mono Trl
+StyleName:Italic
+FullName:TT Interphases Pro Mono Trl Italic
+MenuName:TT Interphases Pro Mono Trl
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Mono Trial Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:100504
+FileModTime:1675688070
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,TT Interphases Pro Mono Trl Italic
+NameArray:0,Win,1,TT Interphases Pro Mono Trl
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTInterphasesProMonoTrl-Rg
+FamilyName:TT Interphases Pro Mono Trl
+StyleName:Regular
+FullName:TT Interphases Pro Mono Trl Regular
+MenuName:TT Interphases Pro Mono Trl
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Mono Trial Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:101136
+FileModTime:1675688070
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,TT Interphases Pro Mono Trl Regular
+NameArray:0,Win,1,TT Interphases Pro Mono Trl
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTIntrphssPrMnTrlVrIt
+FamilyName:TT Intrphss Pr Mn Trl Vr It
+StyleName:Rg
+FullName:TT Intrphss Pr Mn Trl Vr It
+MenuName:TT Intrphss Pr Mn Trl Vr It
+FamilyPrefix:TTIntrphssPrMnTrlVrIt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Mono Trial Var Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:131036
+FileModTime:1675688070
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,TT Interphases Pro Var It Regular
+NameArray:0,Mac,4,TT Intrphss Pr Mn Trl Vr It
+NameArray:0,Win,1,TT Intrphss Pr Mn Trl Vr It
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTIntrphssPrMnTrlVr
+FamilyName:TT Intrphss Pr Mn Trl Vr
+StyleName:Rg
+FullName:TT Intrphss Pr Mn Trl Vr
+MenuName:TT Intrphss Pr Mn Trl Vr
+FamilyPrefix:TTIntrphssPrMnTrlVr
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Mono Trial Var Roman.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:129500
+FileModTime:1675688070
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TT Interphases Pro Var Regular
+NameArray:0,Mac,4,TT Intrphss Pr Mn Trl Vr
+NameArray:0,Win,1,TT Intrphss Pr Mn Trl Vr
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTInterphasesProTrl-Blk
+FamilyName:TT Interphases Pro Trl
+StyleName:Blc
+FullName:TT Interphases Pro Trl Blc
+MenuName:TT Interphases Pro Trl Blc
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Black.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:138512
+FileModTime:1675688070
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,TT Interphases Pro Trl Blc
+NameArray:0,Win,1,TT Interphases Pro Trl Blc
+NameArray:0,Win,16,TT Interphases Pro Trl
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTIntrphssPrTrlCnd-Blk
+FamilyName:TT Intrphss Pr Trl Cnd
+StyleName:Blc
+FullName:TT Intrphss Pr Trl Cnd Blc
+MenuName:TT Intrphss Pr Trl Cnd Blc
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Condensed Black.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:138812
+FileModTime:1675688070
+WeightClass:900
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,TT Interphases Pro Trial Cond Black
+NameArray:0,Mac,4,TT Intrphss Pr Trl Cnd Blc
+NameArray:0,Win,1,TT Intrphss Pr Trl Cnd Blc
+NameArray:0,Win,16,TT Intrphss Pr Trl Cnd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTIntrphssPrTrlCnd-DmBd
+FamilyName:TT Intrphss Pr Trl Cnd
+StyleName:Db
+FullName:TT Intrphss Pr Trl Cnd Db
+MenuName:TT Intrphss Pr Trl Cnd DmBd
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Condensed DemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:139340
+FileModTime:1675688070
+WeightClass:600
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,TT Interphases Pro Trial Cond DemiBold
+NameArray:0,Mac,4,TT Intrphss Pr Trl Cnd Db
+NameArray:0,Win,1,TT Intrphss Pr Trl Cnd DmBd
+NameArray:0,Win,16,TT Intrphss Pr Trl Cnd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTIntrphssPrTrlCnd-XBd
+FamilyName:TT Intrphss Pr Trl Cnd
+StyleName:XBd
+FullName:TT Intrphss Pr Trl Cnd XBd
+MenuName:TT Intrphss Pr Trl Cnd ExBd
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Condensed ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:139224
+FileModTime:1675688070
+WeightClass:800
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,TT Interphases Pro Trial Cond ExBold
+NameArray:0,Mac,4,TT Intrphss Pr Trl Cnd XBd
+NameArray:0,Win,1,TT Intrphss Pr Trl Cnd ExBd
+NameArray:0,Win,16,TT Intrphss Pr Trl Cnd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTIntrphssPrTrlCnd-XLt
+FamilyName:TT Intrphss Pr Trl Cnd
+StyleName:XLt
+FullName:TT Intrphss Pr Trl Cnd XLt
+MenuName:TT Intrphss Pr Trl Cnd ExLt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Condensed ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:139912
+FileModTime:1675688070
+WeightClass:200
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,TT Interphases Pro Trial Cond ExLight
+NameArray:0,Mac,4,TT Intrphss Pr Trl Cnd XLt
+NameArray:0,Win,1,TT Intrphss Pr Trl Cnd ExLt
+NameArray:0,Win,16,TT Intrphss Pr Trl Cnd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTIntrphssPrTrlCnd-Lt
+FamilyName:TT Intrphss Pr Trl Cnd
+StyleName:Lt
+FullName:TT Intrphss Pr Trl Cnd Lt
+MenuName:TT Intrphss Pr Trl Cnd Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Condensed Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:139816
+FileModTime:1675688070
+WeightClass:300
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,TT Interphases Pro Trial Cond Light
+NameArray:0,Mac,4,TT Intrphss Pr Trl Cnd Lt
+NameArray:0,Win,1,TT Intrphss Pr Trl Cnd Lt
+NameArray:0,Win,16,TT Intrphss Pr Trl Cnd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTIntrphssPrTrlCnd-Md
+FamilyName:TT Intrphss Pr Trl Cnd
+StyleName:Md
+FullName:TT Intrphss Pr Trl Cnd Md
+MenuName:TT Intrphss Pr Trl Cnd Md
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Condensed Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:139372
+FileModTime:1675688070
+WeightClass:500
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,TT Interphases Pro Trial Cond Medium
+NameArray:0,Mac,4,TT Intrphss Pr Trl Cnd Md
+NameArray:0,Win,1,TT Intrphss Pr Trl Cnd Md
+NameArray:0,Win,16,TT Intrphss Pr Trl Cnd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTIntrphssPrTrlCnd-Rg
+FamilyName:TT Intrphss Pr Trl Cnd
+StyleName:Rg
+FullName:TT Intrphss Pr Trl Cnd Rg
+MenuName:TT Intrphss Pr Trl Cnd
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Condensed Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:139428
+FileModTime:1675688070
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,TT Interphases Pro Trial Cond Regular
+NameArray:0,Mac,4,TT Intrphss Pr Trl Cnd Rg
+NameArray:0,Win,1,TT Intrphss Pr Trl Cnd
+NameArray:0,Win,16,TT Intrphss Pr Trl Cnd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTIntrphssPrTrlCnd-Th
+FamilyName:TT Intrphss Pr Trl Cnd
+StyleName:Th
+FullName:TT Intrphss Pr Trl Cnd Th
+MenuName:TT Intrphss Pr Trl Cnd Th
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Condensed Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:139836
+FileModTime:1675688070
+WeightClass:100
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,TT Interphases Pro Trial Cond Thin
+NameArray:0,Mac,4,TT Intrphss Pr Trl Cnd Th
+NameArray:0,Win,1,TT Intrphss Pr Trl Cnd Th
+NameArray:0,Win,16,TT Intrphss Pr Trl Cnd
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTInterphasesProTrl-DmBd
+FamilyName:TT Interphases Pro Trl
+StyleName:Db
+FullName:TT Interphases Pro Trl Db
+MenuName:TT Interphases Pro Trl Db
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial DemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:139232
+FileModTime:1675688070
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,TT Interphases Pro Trl Db
+NameArray:0,Win,1,TT Interphases Pro Trl Db
+NameArray:0,Win,16,TT Interphases Pro Trl
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTInterphasesProTrl-XBd
+FamilyName:TT Interphases Pro Trl
+StyleName:XBd
+FullName:TT Interphases Pro Trl XBd
+MenuName:TT Interphases Pro Trl XBd
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:138912
+FileModTime:1675688070
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,TT Interphases Pro Trl XBd
+NameArray:0,Win,1,TT Interphases Pro Trl XBd
+NameArray:0,Win,16,TT Interphases Pro Trl
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTInterphasesProTrl-XLt
+FamilyName:TT Interphases Pro Trl
+StyleName:XLt
+FullName:TT Interphases Pro Trl XLt
+MenuName:TT Interphases Pro Trl XLt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:140236
+FileModTime:1675688070
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,TT Interphases Pro Trl XLt
+NameArray:0,Win,1,TT Interphases Pro Trl XLt
+NameArray:0,Win,16,TT Interphases Pro Trl
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTInterphasesProTrl-Lt
+FamilyName:TT Interphases Pro Trl
+StyleName:Lt
+FullName:TT Interphases Pro Trl Lt
+MenuName:TT Interphases Pro Trl Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:140044
+FileModTime:1675688070
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,TT Interphases Pro Trl Lt
+NameArray:0,Win,1,TT Interphases Pro Trl Lt
+NameArray:0,Win,16,TT Interphases Pro Trl
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTInterphasesProTrl-Md
+FamilyName:TT Interphases Pro Trl
+StyleName:Md
+FullName:TT Interphases Pro Trl Md
+MenuName:TT Interphases Pro Trl Md
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:139472
+FileModTime:1675688070
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,TT Interphases Pro Trl Md
+NameArray:0,Win,1,TT Interphases Pro Trl Md
+NameArray:0,Win,16,TT Interphases Pro Trl
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTInterphasesProTrl-Rg
+FamilyName:TT Interphases Pro Trl
+StyleName:Rg
+FullName:TT Interphases Pro Trl Rg
+MenuName:TT Interphases Pro Trl
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:139564
+FileModTime:1675688070
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,TT Interphases Pro Trl Rg
+NameArray:0,Win,1,TT Interphases Pro Trl
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTInterphasesProTrl-Th
+FamilyName:TT Interphases Pro Trl
+StyleName:Th
+FullName:TT Interphases Pro Trl Th
+MenuName:TT Interphases Pro Trl Th
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:140300
+FileModTime:1675688070
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,TT Interphases Pro Trl Th
+NameArray:0,Win,1,TT Interphases Pro Trl Th
+NameArray:0,Win,16,TT Interphases Pro Trl
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTInterphasesProTrlVariable
+FamilyName:TT Interphases Pro Trl Variable
+StyleName:Regular
+FullName:TT Interphases Pro Trl Variable
+MenuName:TT Interphases Pro Trl Variable
+FamilyPrefix:TTInterphasesProTrlVariable
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Danilo\Desktop\DANILO\Madá\Font\TT Interphases Pro Trial Variable.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:716344
+FileModTime:1675688070
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,TT Interphases Pro Trl Variable
+NameArray:0,Win,1,TT Interphases Pro Trl Variable
+%EndFont
+

@@ -8,7 +8,7 @@
 por padrão, utiliza o pseudo-selector ":root"  
 --text-color: white; estou definindo um nome qualquer para receber aqui o texto padrão. Estou definindo que todo o meu conteúdo, em todo lugar que eu usar essa variável vai usar branco no lugar*/
 :root {
-  --text-color: white;
+  --text-color: black;
   --bg-url: url(./assets/bg-mobile.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);

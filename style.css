@@ -8,7 +8,7 @@
 por padrão, utiliza o pseudo-selector ":root"  
 --text-color: white; estou definindo um nome qualquer para receber aqui o texto padrão. Estou definindo que todo o meu conteúdo, em todo lugar que eu usar essa variável vai usar branco no lugar*/
 :root {
-  --text-color: #4A2C2A;
+  --text-color: #c26553;
   --bg-url: url(./assets/bg-mobile.jpg);
   --stroke-color: #c26553;
   --surface-color: #c26553;
@@ -36,7 +36,7 @@ body {
   */
 
   /*background: color image repeat position/size*/
-  background: #c26553;
+  background: #ead9cc;
   height: 100vh;
   /*overflow: hidden;*/ /*esconde a rolagem*/
 }
@@ -95,14 +95,14 @@ body * {
   justify-content: center;
   padding: 16px;
 
-  color: #ead9cc;
+  color: #c26553;
 
   transition: background 0.2s;
   border-radius: 50%;
 }
 
 #social-links ion-icon {
-  color: #ead9cc;
+  color: #c26553;
 }
 
 #social-links a:hover {
@@ -128,20 +128,20 @@ ul li a {
   padding: 16px 24px;
 
   background: transparent;
-  border: 1px solid #ead9cc;
+  border: 1px solid #c26553;
   border-radius: 20px;
 
   text-decoration: none;
   font-weight: 500;
-  color: #ead9cc;
+  color: #c26553;
 
   transition: background 0.2s, color 0.2s;
 }
 
 /* pseudo-selector: aplica as informações para quando passar o mouse em cima */
 ul li a:hover {
-  background: #ead9cc;
-  color: #4a2c2a;
+  background: #c26553;
+  color: #ead9cc;
 }
 /* switch */
 #switch {

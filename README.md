@@ -56,7 +56,7 @@ Além da experiência do usuário, este projeto também representa minha evoluç
 
 Você pode visualizar o projeto através do GitHub Pages:
 
-**https://renatamayra.github.io/usemada/**
+**https://renatamayra.github.io/usemada/?utm_source=chatgpt.com**
 
 ou acessar o site oficial da marca:
 
